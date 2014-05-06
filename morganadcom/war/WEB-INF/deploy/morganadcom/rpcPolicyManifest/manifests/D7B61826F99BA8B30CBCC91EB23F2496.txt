@@ -1,0 +1,2 @@
+serviceClass: morgan.ad.com.client.GreetingService
+path: 53DD3B574FBACFA860AD24CDA0DFE1CB.gwt.rpc
